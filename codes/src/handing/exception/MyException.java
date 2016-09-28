@@ -5,6 +5,9 @@ public class MyException extends RuntimeException{
 	/**
 	 * 
 	 */
+	/**
+	 * 
+	 */
 	private static final long serialVersionUID = -8403525711668123816L;
 
 	public MyException() {
