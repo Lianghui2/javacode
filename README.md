@@ -1,2 +1,1 @@
-# javacode
-那些年遇到的好code
+好code,好style。
