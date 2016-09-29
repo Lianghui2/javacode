@@ -1,4 +1,4 @@
-package handing.exception;
+package javabasic;
 
 public class TestException {
 
